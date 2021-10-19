@@ -4,28 +4,28 @@
 
 ## UIE Departments
 
-[Aerospace Engineering]
+[Aerospace Engineering](https://github.com/ChandigarhUniv/UNIVERSITY_INSTITUTE_OF_ENGINEERING/tree/main/AEROSPACE)
 
-[Automobile Engineering]
+[Automobile Engineering](https://github.com/ChandigarhUniv/UNIVERSITY_INSTITUTE_OF_ENGINEERING/tree/main/AUTOMOBILE)
 
-[BioTechnology Engineering]
+[BioTechnology Engineering](https://github.com/ChandigarhUniv/UNIVERSITY_INSTITUTE_OF_ENGINEERING/tree/main/BIOTECHNOLOGY)
 
-[Chemical Engineering]
+[Chemical Engineering](https://github.com/ChandigarhUniv/UNIVERSITY_INSTITUTE_OF_ENGINEERING/tree/main/CHEMICAL)
 
-[Civil Engineering]]
+[Civil Engineering](https://github.com/ChandigarhUniv/UNIVERSITY_INSTITUTE_OF_ENGINEERING/tree/main/CIVIL)
 
-[Computer Science Engineering]
+[Computer Science Engineering](https://github.com/ChandigarhUniv/UNIVERSITY_INSTITUTE_OF_ENGINEERING/tree/main/COMPUTER%20SCIENCE)
 
-[Electrical Engineering]
+[Electrical Engineering]()
 
-[Electronics and Communication Engineering]
+[Electronics and Communication Engineering]()
 
-[Petroleum Engineering]
+[Petroleum Engineering](https://github.com/ChandigarhUniv/UNIVERSITY_INSTITUTE_OF_ENGINEERING/tree/main/ELECTRICAL)
 
-[Information Technology]
+[Information Technology](https://github.com/ChandigarhUniv/UNIVERSITY_INSTITUTE_OF_ENGINEERING/tree/main/ELECTRONICS%26COMMMUNICATION)
 
-[Mechanical Engineering]
+[Mechanical Engineering](https://github.com/ChandigarhUniv/UNIVERSITY_INSTITUTE_OF_ENGINEERING/tree/main/MECHANICAL)
 
-[Mechatronics Engineering]
+[Mechatronics Engineering](https://github.com/ChandigarhUniv/UNIVERSITY_INSTITUTE_OF_ENGINEERING/tree/main/MECHATRONICS_ENGINEERING)
 
-[Food Technology Engineering]
+[Food Technology Engineering](https://github.com/ChandigarhUniv/UNIVERSITY_INSTITUTE_OF_ENGINEERING/tree/main/FOOD%20TECHNOLOGY)
