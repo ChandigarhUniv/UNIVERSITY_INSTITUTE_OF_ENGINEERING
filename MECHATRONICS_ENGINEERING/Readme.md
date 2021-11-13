@@ -1,3 +1,5 @@
+![Department of Mechatronics Engineering, Chandigarh University](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/main/IMAGE_DATA/banner.PNG)
+        
 ## Vision of the Department: 
 
 To emerge as a Centre of Excellence in engineering for grooming empowered professionals to meet global challenges through specialized Research and Innovation
@@ -39,13 +41,5 @@ To emerge as a Centre of Excellence in engineering for grooming empowered profes
 - PSO1	Apply the knowledge of sensors, data acquisition, robotics, PLC, control systems and modern software tools to solve mechanical and electronics related problems.
 - PSO2	Design and develop various mechatronics systems by applying concepts of design, manufacturing, electronics and industrial automation required for current industrial needs.
 
-## Student outcomes specified by ABET (AOs)
 
-- AO1	An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
-- AO2	An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factor
-- AO3	An ability to communicate effectively with a range of audiences
-- AO4	An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
-- AO5	An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
-- AO6	An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
-- AO7	An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
 
