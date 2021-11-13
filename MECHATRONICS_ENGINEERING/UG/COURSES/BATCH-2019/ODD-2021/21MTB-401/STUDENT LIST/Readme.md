@@ -1,4 +1,6 @@
-# MTC 5th SEM STUDENT LIST (BATCH-2018)		
+![Department of Mechatronics Engineering, Chandigarh University](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/main/IMAGE_DATA/banner.PNG)
+
+# MTC 7th SEM STUDENT LIST (BATCH-2018)		
 
 # S.NO	          UID	            NAME OF STUDENT
 
