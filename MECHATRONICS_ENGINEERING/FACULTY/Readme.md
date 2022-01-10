@@ -26,3 +26,5 @@ Image processing & Computer Vision
 ## [Mr. Anurag Sharma	Assistant Professor](https://github.com/ChandigarhUniv/UNIVERSITY_INSTITUTE_OF_ENGINEERING/blob/main/MECHATRONICS_ENGINEERING/FACULTY/FACULTY_BIO/FACULTY%20BIO%20Anurag.pdf)
 
 Robotics Process Automation, MIDWAVE Infrared Image Sensing and Computer Vision, Computational Modelling, AI & ML
+
+[UPDATE THE RESEARCH PUBLICATION DATA JAN-2022 ONWARDS](https://docs.google.com/spreadsheets/d/1E6HcMiqrWm4whzmO9d_UudLPghRDfRHtA0ioqwYGAns/edit#gid=2127336805)
